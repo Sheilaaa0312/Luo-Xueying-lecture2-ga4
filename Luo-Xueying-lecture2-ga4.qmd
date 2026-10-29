@@ -1,8 +1,8 @@
 ---
-title: "Lecture 2 — Intermediate/Advanced BigQuery for GA4"
-subtitle: "IC/CP-W05 BigQuery SQL"
+title: "BigQuery SQL Intermediate/Advanced — Lecture 2"
+subtitle: "IC/CP-W05"
 author: "Xueying Luo"
-date: today
+date: 2026-10-28
 format:
   html:
     theme: cosmo
@@ -319,5 +319,5 @@ In this lecture, I practiced building queries with CTEs, extracting nested GA4 d
 
 # Appendix — GitHub project links
 
-- GitHub Pages
+- [GitHub Pages](https://sheilaaa0312.github.io/Luo-Xueying-lecture2-ga4/?utm_source=chatgpt.com)
 - [GitHub repository](https://github.com/Sheilaaa0312/Luo-Xueying-lecture2-ga4)
