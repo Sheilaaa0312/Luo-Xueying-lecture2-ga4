@@ -319,5 +319,5 @@ In this lecture, I practiced building queries with CTEs, extracting nested GA4 d
 
 # Appendix — GitHub project links
 
-- [GitHub Pages](https://sheilaaa0312.github.io/Luo-Xueying-lecture2-ga4/?utm_source=chatgpt.com)
+- [GitHub Pages](https://sheilaaa0312.github.io/Luo-Xueying-lecture2-ga4/)
 - [GitHub repository](https://github.com/Sheilaaa0312/Luo-Xueying-lecture2-ga4)
